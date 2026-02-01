@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "drum-glove")(type "KiCad")(uri "${KIPRJMOD}/drum-glove.kicad_sym")(options "")(descr ""))
+)
